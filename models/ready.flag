@@ -1,0 +1,3 @@
+model_ready=true
+inference_type=LLAMA_NATIVE
+version=0.1.247-native-llama-bundle
